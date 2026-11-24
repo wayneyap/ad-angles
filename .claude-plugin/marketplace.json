@@ -1,0 +1,13 @@
+{
+  "name": "ad-angles",
+  "description": "Skills for testing advertising angles with Claude Code",
+  "owner": { "name": "wayneyap" },
+  "plugins": [
+    {
+      "name": "ad-angles",
+      "description": "Test ten advertising angles without writing the copy yourself: angle grid, cold-ad briefs, tagged ad copy, launch and stop rules.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

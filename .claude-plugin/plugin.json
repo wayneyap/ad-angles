@@ -1,0 +1,9 @@
+{
+  "name": "ad-angles",
+  "description": "Test ten advertising angles without writing the copy yourself: angle grid, cold-ad briefs, tagged ad copy, launch and stop rules.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/wayneyap/ad-angles",
+  "repository": "https://github.com/wayneyap/ad-angles",
+  "license": "MIT",
+  "keywords": ["marketing", "ads", "copywriting", "creative-testing", "skills"]
+}
